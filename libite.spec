@@ -4,7 +4,7 @@
 #
 Name     : libite
 Version  : 2.0.2
-Release  : 1
+Release  : 2
 URL      : https://github.com/troglobit/libite/releases/download/v2.0.2/libite-2.0.2.tar.xz
 Source0  : https://github.com/troglobit/libite/releases/download/v2.0.2/libite-2.0.2.tar.xz
 Summary  : Frog DNA, basically
