@@ -27,7 +27,14 @@ libite.so.5:reallocarray
 libite.so.5:rsync
 libite.so.5:strlcat
 libite.so.5:strlcpy
+libite.so.5:strmatch
+libite.so.5:strnmatch
 libite.so.5:strtonum
+libite.so.5:telnet_close
+libite.so.5:telnet_expect
+libite.so.5:telnet_open
+libite.so.5:telnet_session
 libite.so.5:tempfile
 libite.so.5:which
 libite.so.5:whichp
+libite.so.5:yorn
